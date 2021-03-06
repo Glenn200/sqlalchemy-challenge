@@ -22,12 +22,11 @@ Climate Flask App
 Flask API developed based on the previous queries developed.
 
 To run the app:
-
 Copy, clone or download this repository to a local directory on your computer.
 Change directory to the root directory (sqlalchemy-challenge) of this repository.
 Run python app.py from the root directory (sqlalchemy-challenge). The app starts up at localhost:5000 by default.
 
-Available routes/endpoints you can hit:
+Available routes/endpoints you can select:
 
 Route	Description
 /	                This route is the home route. It lists all available routes.
